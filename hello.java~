@@ -1,0 +1,7 @@
+public class hello-world
+{
+  public static void main(String[] arg)
+  {
+    System.out.println("This is hello-world program for jenkins tutorial");
+  }
+}
